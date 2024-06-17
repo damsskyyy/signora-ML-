@@ -1,1 +1,2 @@
-
+for signora_realtime.py name model is best_model.h5
+for realtime2.py name model is sign_language_model.tflite
